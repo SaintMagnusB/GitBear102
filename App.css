@@ -1,0 +1,16 @@
+.App {
+  text-align: left;
+  padding: 30px;
+}
+
+.background {
+  background-color: #bef7ad;
+  height: 800px;
+}
+
+.nightmode {
+  background-color:#37393d ;
+  color: white;
+  height: 800px;
+}
+
